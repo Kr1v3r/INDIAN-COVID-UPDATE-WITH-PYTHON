@@ -1,7 +1,9 @@
-# INDIAN-COVID-UPDATE-WITH-PYTHON
+<h1 align="center">
+   INDIAN-COVID-UPDATE-WITH-PYTHON
+</h1>
 
 Simple Python program to get the latest update on covid-19 with covid19py lib
 
-##installation
+## Installation
 
-pip install COVID19py
+**pip install COVID19py**
